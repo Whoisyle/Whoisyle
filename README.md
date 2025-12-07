@@ -1,5 +1,4 @@
-# This is [lyle kali] 👋
-
+# This is Paballo lyle kali  
 I’m an aspiring **Red Team Operator & Ethical Hacker** building practical offensive security skills.
 
 ## 🔹 Skills
