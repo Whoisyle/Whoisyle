@@ -1,16 +1,21 @@
-## Hi there 👋
+# This is [lyle kali] 👋
 
-<!--
-**Whoisyle/Whoisyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring **Red Team Operator & Ethical Hacker** building practical offensive security skills.
 
-Here are some ideas to get you started:
+## 🔹 Skills
+- Penetration Testing | Red Team Operations | Ethical Hacking
+- Active Directory Exploitation | Web App Pentesting
+- Kali Linux | Metasploit | BloodHound | Docker | AWS
+- Scripting: Python, Bash, PowerShell
+- Bug Bounty Hunting & CTF Challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Current Projects
+- Red Team Homelab: AD + Docker + AWS
+- Web Application Pentest Write-Ups
+- Bug Bounty Reports (Ethical)
+- Automation Scripts for Pentesting
+
+## 🔹 Let’s Connect
+[https://www.linkedin.com/in/paballo-kali-2b56662b4/]
+paballokali11@gmail.com
+
