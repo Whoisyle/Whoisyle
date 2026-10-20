@@ -35,17 +35,7 @@ I build and experiment with security tooling and software, with a focus on offen
 
 > I aim to make security work repeatable, measurable, and responsible. All testing should be performed on systems I own or have explicit permission to assess.
 
-Technical Focus
 
-|Domain              |Areas of focus                                                                                                         |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------|
-|Offensive security  |Reconnaissance, asset discovery, port and service enumeration, attack-surface analysis, penetration-testing methodology|
-|Web & API security  |HTTP fundamentals, authentication and session concepts, access control, input validation, OWASP-aligned testing        |
-|Network security    |TCP/IP, DNS, ports and protocols, network mapping, segmentation concepts, troubleshooting                              |
-|Cloud security      |IAM fundamentals, least privilege, cloud attack surfaces, logging and monitoring, configuration review                 |
-|Linux & systems     |Linux administration, permissions, processes, shell scripting, system hardening                                        |
-|Automation          |Python utilities, command-line tooling, repeatable workflows, parsing and reporting                                    |
-|Software engineering|Git, API integration, frontend/backend development, debugging, documentation                                           |
 
 Featured Projects
 
@@ -66,12 +56,6 @@ A network reconnaissance project exploring discovery workflows and practical net
 Open repository →
 
 A port-scanning project for learning service discovery and network assessment fundamentals in approved lab environments.
-
-4. Vossie Marketplace
-
-Open repository →
-
-A multi-role marketplace application project involving product design and application engineering.
 
 ────────
 
